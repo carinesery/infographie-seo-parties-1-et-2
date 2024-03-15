@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.41 33.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #463f76;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #dbf0f6;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #9ec3cc;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #d6d7de;
+      }
+
+      .cls-3 {
+        fill: #ededef;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Téléphone_loupe" data-name="Téléphone loupe">
+      <g id="Téléphone">
+        <rect class="cls-1" x="9" y="0" width="18.38" height="33.91" rx="2.01" ry="2.01"/>
+        <rect class="cls-3" x="8.96" y="4.21" width="18.45" height="22.96"/>
+        <circle class="cls-3" cx="18.19" cy="30.45" r="1.81"/>
+        <rect class="cls-2" x="14.66" y="1.49" width="7.06" height="1.19"/>
+      </g>
+      <g id="Loupe">
+        <circle class="cls-4" cx="14.47" cy="16.85" r="10.21"/>
+        <line class="cls-5" x1="1" y1="31.34" x2="7.13" y2="24.51"/>
+      </g>
+    </g>
+  </g>
+</svg>

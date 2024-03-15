@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142.98 141.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bbebea;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #3c6;
+      }
+
+      .cls-3 {
+        fill: #f15d46;
+      }
+
+      .cls-4 {
+        fill: #a4c0cf;
+      }
+
+      .cls-5 {
+        fill: #cfdee5;
+      }
+
+      .cls-6 {
+        fill: #ecf1f3;
+      }
+
+      .cls-7 {
+        fill: #a7a6bb;
+      }
+
+      .cls-8 {
+        fill: #fabd29;
+      }
+
+      .cls-9 {
+        fill: #b8d3e0;
+      }
+
+      .cls-10 {
+        fill: #ddd8d2;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Graph_et_feuille" data-name="Graph et feuille">
+      <g id="Grapgh">
+        <rect class="cls-3" x="79.79" y="0" width="32.04" height="125.87" rx="5.74" ry="5.74"/>
+        <rect class="cls-2" x="56.04" y="24.77" width="30.89" height="101.11" rx="5.74" ry="5.74"/>
+        <rect class="cls-8" x="30.51" y="42.89" width="30.89" height="82.98" rx="5.74" ry="5.74"/>
+      </g>
+      <g>
+        <rect class="cls-10" x="0" y="109.63" width="142.98" height="23.49" rx="11.11" ry="11.11"/>
+        <rect class="cls-7" x="12.6" y="118.95" width="117.78" height="4.85" rx="2.43" ry="2.43"/>
+      </g>
+      <g id="Site">
+        <g>
+          <rect class="cls-9" x="42.34" y="64.17" width="91.4" height="77.62" rx="6.89" ry="6.89"/>
+          <path class="cls-6" d="m42.34,80.26h91.4v54.53c0,3.86-3.14,7-7,7H49.34c-3.86,0-7-3.14-7-7v-54.53h0Z"/>
+        </g>
+        <g>
+          <rect class="cls-4" x="102.46" y="70.44" width="4.66" height="4.66" rx="1.33" ry="1.33"/>
+          <rect class="cls-4" x="111.57" y="70.44" width="4.66" height="4.66" rx="1.33" ry="1.33"/>
+          <rect class="cls-4" x="120.69" y="70.44" width="4.66" height="4.66" rx="1.33" ry="1.33"/>
+        </g>
+        <g>
+          <path class="cls-1" d="m77.35,80.26l-23.87-.03v-19.51c0-1.22,1.1-2.22,2.44-2.22h18.99c1.34,0,2.44,1,2.44,2.22v19.53Z"/>
+          <rect class="cls-4" x="58.64" y="64.05" width="13.53" height="6.38" rx="3.19" ry="3.19"/>
+        </g>
+        <g>
+          <rect class="cls-5" x="51" y="90.47" width="21.83" height="6.64" rx="3.32" ry="3.32"/>
+          <rect class="cls-5" x="80.17" y="90.47" width="44.9" height="6.64" rx="3.32" ry="3.32"/>
+          <rect class="cls-5" x="53.3" y="103.74" width="70.72" height="27.83" rx="2.17" ry="2.17"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

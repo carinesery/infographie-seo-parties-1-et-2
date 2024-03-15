@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.09 53.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e2d69;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: Bahnschrift-Bold, Bahnschrift;
+        font-size: 18px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #a4c0cf;
+      }
+
+      .cls-3 {
+        fill: #fabd29;
+      }
+
+      .cls-4 {
+        fill: #e7e9eb;
+      }
+
+      .cls-5 {
+        fill: #8ca5b5;
+      }
+
+      .cls-7 {
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Camion">
+      <rect class="cls-1" x="0" width="65.36" height="41.66"/>
+      <text class="cls-6" transform="translate(7.78 26.62)"><tspan class="cls-7" x="0" y="0">WW</tspan><tspan x="32.24" y="0">W</tspan></text>
+      <path class="cls-5" d="m65.36,12.93h16.64c1.1,0,2,.9,2,2v15.48h-18.64V12.93h0Z"/>
+      <rect class="cls-3" x="67.41" y="27.84" width="4.79" height="1.4"/>
+      <rect class="cls-2" x="67.41" y="15.96" width="12.51" height="10.66"/>
+      <path class="cls-5" d="m65.36,30.41h24.72c1.1,0,2,.9,2,2v8.72h-26.72v-10.72h0Z"/>
+      <g id="Bas_du_camion" data-name="Bas du camion">
+        <path class="cls-3" d="m2,40.47h88.09c1.1,0,2,.9,2,2v5.89H0v-5.89c0-1.1.9-2,2-2Z" transform="translate(92.09 88.83) rotate(180)"/>
+        <g id="Pneu">
+          <circle class="cls-2" cx="74.35" cy="43.73" r="9.67"/>
+          <circle class="cls-4" cx="74.35" cy="43.73" r="5.52"/>
+        </g>
+        <g id="Pneu-2" data-name="Pneu">
+          <circle class="cls-2" cx="19.15" cy="43.73" r="9.67"/>
+          <circle class="cls-4" cx="19.15" cy="43.73" r="5.52"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

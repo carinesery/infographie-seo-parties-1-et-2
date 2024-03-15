@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.59 57.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #9ec3cc;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #dbf0f6;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #463f76;
+        font-family: Bahnschrift-Bold, Bahnschrift;
+        font-size: 15px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="SEO">
+      <g id="Loupe_SEO" data-name="Loupe SEO">
+        <circle class="cls-2" cx="31.56" cy="24.03" r="22.03"/>
+        <line class="cls-1" x1="2.5" y1="55.29" x2="15.72" y2="40.56"/>
+      </g>
+      <text class="cls-4" transform="translate(18.05 29.06)"><tspan class="cls-3" x="0" y="0">S</tspan><tspan x="9.09" y="0">EO</tspan></text>
+    </g>
+  </g>
+</svg>

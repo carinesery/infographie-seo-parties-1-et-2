@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.75 31.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Bahnschrift-Bold, Bahnschrift;
+        font-size: 18px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fabd29;
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Point_d_exclamation" data-name="Point d&amp;apos;exclamation">
+      <circle class="cls-2" cx="19.81" cy="15.69" r="14.94"/>
+      <g>
+        <text class="cls-1" transform="translate(13.26 20.95)"><tspan x="0" y="0">!</tspan></text>
+        <circle class="cls-3" cx="15.69" cy="15.69" r="14.94"/>
+      </g>
+    </g>
+  </g>
+</svg>

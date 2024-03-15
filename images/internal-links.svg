@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126.47 120.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0096e6;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #463f76;
+      }
+
+      .cls-3 {
+        fill: #dead40;
+      }
+
+      .cls-6 {
+        stroke: #289e38;
+        stroke-width: 1.5px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-7, .cls-8 {
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        stroke: #dce2dc;
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: #57cc6c;
+      }
+
+      .cls-5 {
+        fill: #ed5d49;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Ecrans_reliés" data-name="Ecrans reliés">
+      <g id="Chemin">
+        <polyline class="cls-6" points="79.02 32.83 59.28 32.91 59.28 60.89 43.62 60.89"/>
+        <polyline class="cls-6" points="83.68 89.23 58.94 89.23 59.28 60.89"/>
+      </g>
+      <g id="Ecran_lien" data-name="Ecran lien">
+        <g>
+          <rect class="cls-2" x="76.93" width="48.26" height="48.26"/>
+          <g>
+            <rect class="cls-1" x="80.76" y="9.86" width="40.6" height="34.98"/>
+            <g id="Maille">
+              <path class="cls-7" d="m96.2,35.42l-4.14,1.74c-2.96,1.24-6.33-.09-7.49-2.97h0c-1.16-2.88.31-6.25,3.27-7.49l4.14-1.74c2.96-1.24,6.33.09,7.49,2.97h0c1.16,2.88-.31,6.25-3.27,7.49Z"/>
+              <path class="cls-7" d="m114.26,28.01l-4.14,1.74c-2.96,1.24-6.33-.09-7.49-2.97h0c-1.16-2.88.31-6.25,3.27-7.49l4.14-1.74c2.96-1.24,6.33.09,7.49,2.97h0c1.16,2.88-.31,6.25-3.27,7.49Z"/>
+              <rect class="cls-8" x="93.45" y="27.32" width="14.54" height=".07" transform="translate(-2.83 40.37) rotate(-22.36)"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <circle class="cls-5" cx="82.38" cy="5.03" r="1.63"/>
+          <circle class="cls-3" cx="86.42" cy="5.03" r="1.63"/>
+          <circle class="cls-4" cx="90.46" cy="5.03" r="1.63"/>
+        </g>
+      </g>
+      <g id="Ecran_lien-2" data-name="Ecran lien">
+        <g>
+          <rect class="cls-2" y="36.4" width="48.26" height="48.26"/>
+          <g>
+            <rect class="cls-1" x="3.83" y="46.26" width="40.6" height="34.98"/>
+            <g id="Maille-2" data-name="Maille">
+              <path class="cls-7" d="m19.28,71.82l-4.14,1.74c-2.96,1.24-6.33-.09-7.49-2.97h0c-1.16-2.88.31-6.25,3.27-7.49l4.14-1.74c2.96-1.24,6.33.09,7.49,2.97h0c1.16,2.88-.31,6.25-3.27,7.49Z"/>
+              <path class="cls-7" d="m37.33,64.41l-4.14,1.74c-2.96,1.24-6.33-.09-7.49-2.97h0c-1.16-2.88.31-6.25,3.27-7.49l4.14-1.74c2.96-1.24,6.33.09,7.49,2.97h0c1.16,2.88-.31,6.25-3.27,7.49Z"/>
+              <rect class="cls-8" x="16.52" y="63.72" width="14.54" height=".07" transform="translate(-22.46 13.84) rotate(-22.36)"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <circle class="cls-5" cx="5.46" cy="41.43" r="1.63"/>
+          <circle class="cls-3" cx="9.49" cy="41.43" r="1.63"/>
+          <circle class="cls-4" cx="13.53" cy="41.43" r="1.63"/>
+        </g>
+      </g>
+      <g id="Ecran_lien-3" data-name="Ecran lien">
+        <g>
+          <rect class="cls-2" x="78.22" y="72.15" width="48.26" height="48.26"/>
+          <g>
+            <rect class="cls-1" x="82.05" y="82.01" width="40.6" height="34.98"/>
+            <g id="Maille-3" data-name="Maille">
+              <path class="cls-7" d="m97.5,107.56l-4.14,1.74c-2.96,1.24-6.33-.09-7.49-2.97h0c-1.16-2.88.31-6.25,3.27-7.49l4.14-1.74c2.96-1.24,6.33.09,7.49,2.97h0c1.16,2.88-.31,6.25-3.27,7.49Z"/>
+              <path class="cls-7" d="m115.55,100.16l-4.14,1.74c-2.96,1.24-6.33-.09-7.49-2.97h0c-1.16-2.88.31-6.25,3.27-7.49l4.14-1.74c2.96-1.24,6.33.09,7.49,2.97h0c1.16,2.88-.31,6.25-3.27,7.49Z"/>
+              <rect class="cls-8" x="94.74" y="99.46" width="14.54" height=".07" transform="translate(-30.18 46.28) rotate(-22.36)"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <circle class="cls-5" cx="83.68" cy="77.17" r="1.63"/>
+          <circle class="cls-3" cx="87.71" cy="77.17" r="1.63"/>
+          <circle class="cls-4" cx="91.75" cy="77.17" r="1.63"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

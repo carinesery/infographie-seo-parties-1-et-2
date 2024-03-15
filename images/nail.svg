@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.38 25.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a4c0cf;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #a4c0cf;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #b8d3e0;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Clou">
+      <line class="cls-1" x1="6.19" y1="23.23" x2="6.19" y2="12.38"/>
+      <circle class="cls-2" cx="6.19" cy="6.19" r="6.19"/>
+      <ellipse class="cls-3" cx="7.44" cy="6.19" rx="4.95" ry="5.43"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 71.51 87.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke: url(#Dégradé_sans_nom_21-2);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: url(#Dégradé_sans_nom_21);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_21" data-name="Dégradé sans nom 21" x1="11.91" y1="34.95" x2="59.14" y2="34.95" gradientTransform="translate(71.05) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f15d46"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_21-2" data-name="Dégradé sans nom 21" x1="-66.08" y1="34.95" x2="-18.85" y2="34.95" gradientTransform="translate(77.99)" xlink:href="#Dégradé_sans_nom_21"/>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <g>
+        <path class="cls-3" d="m57.6,1.5s2.04,26.55-22.81,27.06c-24.85.51-21.11,31.32-21.28,39.83"/>
+        <path class="cls-2" d="m13.45,1.5s-2.04,26.55,22.81,27.06,21.11,31.32,21.28,39.83"/>
+      </g>
+      <polygon class="cls-1" points="0 68.39 27.74 68.39 13.87 87.8 0 68.39"/>
+      <polyline class="cls-1" points="57.64 87.8 43.77 68.39 71.51 68.39"/>
+    </g>
+  </g>
+</svg>

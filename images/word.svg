@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88.28 56.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcd478;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fabd29;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Bahnschrift-Bold, Bahnschrift;
+        font-size: 15px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="WASD">
+      <g>
+        <g id="Cube">
+          <polygon class="cls-1" points="17.82 0 17.82 24.77 42.59 0 17.82 0"/>
+          <polygon class="cls-2" points="17.82 24.77 42.59 24.77 42.59 0 17.82 24.77"/>
+        </g>
+        <text class="cls-3" transform="translate(23.85 17.77)"><tspan x="0" y="0">W</tspan></text>
+      </g>
+      <g>
+        <g>
+          <g id="Cube-2" data-name="Cube">
+            <polygon class="cls-1" points="0 31.44 0 56.2 24.77 31.44 0 31.44"/>
+            <polygon class="cls-2" points="0 56.2 24.77 56.2 24.77 31.44 0 56.2"/>
+          </g>
+          <text class="cls-3" transform="translate(7.53 49.2)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+        <g>
+          <g id="Cube-3" data-name="Cube">
+            <polygon class="cls-1" points="30.91 31.44 30.91 56.2 55.67 31.44 30.91 31.44"/>
+            <polygon class="cls-2" points="30.91 56.2 55.67 56.2 55.67 31.44 30.91 56.2"/>
+          </g>
+          <text class="cls-3" transform="translate(38.67 49.21)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+        <g>
+          <g id="Cube-4" data-name="Cube">
+            <polygon class="cls-1" points="63.51 31.44 63.51 56.2 88.28 31.44 63.51 31.44"/>
+            <polygon class="cls-2" points="63.51 56.2 88.28 56.2 88.28 31.44 63.51 56.2"/>
+          </g>
+          <text class="cls-3" transform="translate(70.97 49.21)"><tspan x="0" y="0">D</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

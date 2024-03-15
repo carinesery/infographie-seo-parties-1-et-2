@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88.21 98.11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #463f76;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        fill: #fbbe25;
+      }
+
+      .cls-4 {
+        fill: #342c73;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Recherche">
+      <g id="Barre_de_recherche" data-name="Barre de recherche">
+        <rect class="cls-2" width="56.17" height="25.02"/>
+        <rect class="cls-3" x="56.17" width="7.02" height="25.02"/>
+        <g>
+          <rect class="cls-1" x="63.19" width="24.32" height="25.02"/>
+          <g id="Loupe">
+            <circle class="cls-5" cx="73.64" cy="11.07" r="5.62"/>
+            <line class="cls-6" x1="82.67" y1="19.57" x2="77.75" y2="14.9"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g id="Résultats">
+          <rect class="cls-2" y="33.57" width="88.21" height="25.28"/>
+          <g>
+            <g>
+              <rect class="cls-3" x="6.38" y="39.57" width="8.94" height="13.28"/>
+              <rect class="cls-4" x="15.32" y="39.57" width="4.47" height="13.28"/>
+            </g>
+            <rect class="cls-4" x="24.38" y="40.6" width="58.98" height="3.7"/>
+            <rect class="cls-4" x="24.38" y="48.64" width="31.79" height="3.7"/>
+          </g>
+        </g>
+        <g id="Résultats-2" data-name="Résultats">
+          <g>
+            <g>
+              <rect class="cls-3" x="5.62" y="62.2" width="8.94" height="13.28"/>
+              <rect class="cls-4" x="14.55" y="62.2" width="4.47" height="13.28"/>
+            </g>
+            <rect class="cls-4" x="23.62" y="63.22" width="58.98" height="3.7"/>
+            <rect class="cls-4" x="23.62" y="71.27" width="31.79" height="3.7"/>
+          </g>
+        </g>
+        <g id="Résultats-3" data-name="Résultats">
+          <g>
+            <g>
+              <rect class="cls-3" x="5.62" y="84.83" width="8.94" height="13.28"/>
+              <rect class="cls-4" x="14.55" y="84.83" width="4.47" height="13.28"/>
+            </g>
+            <rect class="cls-4" x="23.62" y="85.85" width="58.98" height="3.7"/>
+            <rect class="cls-4" x="23.62" y="93.89" width="31.79" height="3.7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

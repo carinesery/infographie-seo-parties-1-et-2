@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.09 36.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f3;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #21d0c3;
+      }
+
+      .cls-3 {
+        fill: #2ab158;
+      }
+
+      .cls-6 {
+        fill: #dbf0f6;
+        stroke-width: 1.5px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: #9ec3cc;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #3c6;
+      }
+
+      .cls-5 {
+        fill: #fabd29;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <g id="Tablette">
+        <rect class="cls-1" width="41.62" height="31.91"/>
+        <rect class="cls-2" x="2.64" y="2.13" width="36.34" height="27.66"/>
+        <path class="cls-5" d="m2.64,2.13h9.87s1.28,11.06-9.87,9.79V2.13Z"/>
+        <path class="cls-3" d="m10.77,29.77s6-9.45,12.55-10.81,15.66.85,15.66.85v9.96H10.77Z"/>
+        <path class="cls-4" d="m2.68,21.94s11.32-1.28,11.83,2.38c0,3.83-1.36,4.6-1.36,4.6l-.77.85H2.68v-7.83Z"/>
+      </g>
+      <g id="Loupe">
+        <circle class="cls-6" cx="33.6" cy="25.91" r="7.39"/>
+        <line class="cls-7" x1="44.09" y1="35.65" x2="39.15" y2="31.22"/>
+      </g>
+    </g>
+  </g>
+</svg>

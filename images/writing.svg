@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.38 65.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f3;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #c7cce6;
+      }
+
+      .cls-3, .cls-9 {
+        fill: #463f76;
+      }
+
+      .cls-4 {
+        fill: #504c89;
+      }
+
+      .cls-5 {
+        fill: #3c6;
+      }
+
+      .cls-6 {
+        fill: #9896b0;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-family: Bahnschrift-Bold, Bahnschrift;
+        font-size: 12px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        letter-spacing: .05em;
+      }
+
+      .cls-8 {
+        fill: #3e7978;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g id="Ecran">
+      <g id="Ordinateur">
+        <g id="PIed">
+          <g>
+            <rect class="cls-2" x="20.6" y="58.69" width="25.19" height="5.28"/>
+            <rect class="cls-6" x="20.6" y="56.22" width="25.19" height="2.47"/>
+          </g>
+          <rect class="cls-1" x="11.91" y="63.96" width="42.55" height="1.79"/>
+        </g>
+        <rect class="cls-3" y="11.96" width="66.38" height="44.26"/>
+        <rect class="cls-7" x="4.17" y="16.05" width="58.04" height="33.19"/>
+        <rect class="cls-7" x="31.72" y="51.15" width="2.94" height="2.94" rx=".9" ry=".9"/>
+        <text class="cls-9" transform="translate(17.37 35.92)"><tspan class="cls-10" x="0" y="0">WW</tspan><tspan x="21.49" y="0">W</tspan></text>
+      </g>
+      <g id="Téléphone">
+        <rect class="cls-4" x="47.58" y="38.92" width="17.19" height="26.72" rx=".85" ry=".85"/>
+        <rect class="cls-7" x="49.71" y="43.18" width="12.94" height="18.21"/>
+        <circle class="cls-5" cx="56.18" cy="63.39" r="1.14"/>
+        <rect class="cls-8" x="53.74" y="40.6" width="4.87" height="1.13"/>
+      </g>
+      <g id="Nuage">
+        <circle class="cls-5" cx="38.78" cy="9.77" r="9.77"/>
+        <circle class="cls-5" cx="27.18" cy="13.29" r="9.08"/>
+        <circle class="cls-5" cx="18.86" cy="18.88" r="5.04"/>
+        <circle class="cls-5" cx="45.53" cy="16.89" r="7.04"/>
+        <rect class="cls-5" x="18.1" y="12.44" width="26.81" height="11.49"/>
+      </g>
+    </g>
+  </g>
+</svg>
